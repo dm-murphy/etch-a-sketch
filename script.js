@@ -12,7 +12,7 @@ function makeGrid(gridSize) {
   const container = document.querySelector('#container');
   container.style.outline = 'solid 5px white';
   container.style.margin = 'auto';
-  container.style.width = '960px';
+  container.style.width = '630px';
   container.style.display = 'grid';
   container.style.gridTemplateColumns = `repeat(${gridSize}, 1fr)`;
   container.style.gridTemplateRows = `repeat(${gridSize}, 1fr)`;
@@ -198,10 +198,9 @@ title.style.color = 'White';
 const header = document.querySelector('#header');
 header.style.display = 'grid';
 header.style.gridTemplateColumns = 'repeat(5, 1fr)';
-header.style.width = '400px';
+header.style.width = '200px';
 header.style.margin = 'auto';
 header.style.gap = '10px';
-header.style.textAlign = 'center';
 header.style.justifyContent = 'center';
 header.style.paddingBottom = '20px';
 
