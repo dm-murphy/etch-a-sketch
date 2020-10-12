@@ -3,3 +3,5 @@ This example showcases how all of the work can be performed using JavaScript and
 
 For a full description of the project requirements visit: https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project
 
+Play it here: https://dm-murphy.github.io/etch-a-sketch/
+
